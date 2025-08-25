@@ -4,8 +4,7 @@ This repository contains visual summaries of common Flutter interview questions.
 
 ## 📄 PDF Version Available
 
-📄 [Download the full PDF summary of Flutter Interview Questions](https://github.com/user-attachments/files/21514092/Flutter.Interview.Questions.pdf)
-
+📄 [Download the full PDF summary of Flutter Interview Questions](https://github.com/user-attachments/files/21966743/Flutter.Interview.Questions.pdf)
 
 ## 📚 Questions List
 
